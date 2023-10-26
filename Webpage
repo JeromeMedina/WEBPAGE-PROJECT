@@ -1,3 +1,80 @@
-<html>
-    
+<!DOCTYPE html>
+
+<html lang="en">
+
+   <head>
+
+        <meta charset="UTF-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Portfolio</title> 
+
+        <link rel="stylesheet" href="practice.css"> 
+
+    </head> 
+
+    <body>
+            
+        <div class="navbar"> 
+            <a href="#">ABOUT ME</a>
+            <a href="#">PROJECT 1</a>
+            <a href="#">PROJECT 2</a>
+            <a href="#">PROJECT 3</a>
+            <a href="#">PROJECT 4</a>
+        </div>
+        
+        <div class="content">
+        
+        <div class="projects">
+        <div class="project">
+            <h3>PROJECT 1</h3>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+        </div>
+
+        <div class="project">
+            <h3>PROJECT 2</h3>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+        </div>
+        
+        <div class="project">
+            <h3>PROJECT 3</h3>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+        </div>
+
+        <div class="project">
+            <h3>PROJECT 4</h3>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+            <a href="#">LINK</a>
+        </div> 
+
+        </div> 
+
+        <div class="resume"> 
+            <h3>RESUME</h3>
+            <p>NAME: </p>
+            <p>LOCATION: </p>
+            <p>PHONE: </p>
+            <p>EMAIL: </p>
+            <p>PROFILE: </p>
+            <p>EDUCATION: </p>
+            <p>SKILLS: </p>
+            <p>LANGUAGES: </p>
+            <p>INTERESTS: </p>
+        </div>
+
+        </div>
+
+    </body> 
+ 
 </html>
