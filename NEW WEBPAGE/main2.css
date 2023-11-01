@@ -1,0 +1,67 @@
+
+body{
+    background-color: black;
+}
+.Columnss{
+    display: flex;
+}
+
+.KJ{
+    opacity: 0.5;
+    background-color: lavender;
+    width: 25vw;
+    height: 98vh;
+}
+
+div.KJ:hover{
+    opacity: 1;
+}
+
+.content{
+    padding: 90px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.Story{
+    width: 50vw;
+    height: 100vh;
+}
+div.JB img{
+    float: right;
+}
+.read{
+    text-align: center;
+    color: aliceblue;
+}
+div.JB:hover{
+    opacity: 1;
+}
+.JB {
+    opacity: 0.5;
+    background-color: beige;
+    width: 25vw;
+    height: 98vh;
+}
+.img{
+    
+    opacity: 0.5;
+    background-color: lavender;
+    width: 25vw;
+    height: 98vh;
+}
+div.img:hover{
+    opacity: 1;
+}
+.resume{
+    
+    width: 75vw;
+    height: 98vh;
+}
+.rescontent{
+    padding: 2%;
+    color: aliceblue;
+}
+.KJport{
+    display: flex;
+}
