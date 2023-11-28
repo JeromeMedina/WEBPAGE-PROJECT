@@ -1,6 +1,7 @@
 
 body{
-    background-color: black;
+    background-image: url("pexels-felix-mittermeier-956999.jpg");
+    background-size: contain;
 }
 .Columnss{
     display: flex;
@@ -8,7 +9,7 @@ body{
 
 .KJ{
     opacity: 0.5;
-    background-color: lavender;
+    background-color: rgb(208, 163, 245);
     width: 25vw;
     height: 98vh;
 }
@@ -39,7 +40,7 @@ div.JB:hover{
 }
 .JB {
     opacity: 0.5;
-    background-color: beige;
+    background-color: rgb(204, 204, 177);
     width: 25vw;
     height: 98vh;
 }
